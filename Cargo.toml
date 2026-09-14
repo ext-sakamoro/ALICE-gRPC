@@ -1,10 +1,13 @@
 [package]
 name = "alice-grpc"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 authors = ["Moroya Sakamoto <sakamoro@alicelaw.net>"]
 license = "AGPL-3.0-or-later"
 description = "Pure Rust gRPC framework with Protobuf encoding/decoding"
+repository = "https://github.com/ext-sakamoro/ALICE-gRPC"
+keywords = ["grpc", "protobuf", "rpc", "http2", "framework"]
+categories = ["network-programming", "web-programming", "encoding"]
 
 [lib]
 crate-type = ["rlib"]
