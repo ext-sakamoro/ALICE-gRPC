@@ -10,7 +10,7 @@ Pure Rust gRPC framework for the ALICE ecosystem. Provides Protobuf encoding/dec
 |------|-------|
 | **Crate** | `alice-grpc` |
 | **Version** | 1.0.0 |
-| **License** | AGPL-3.0 |
+| **License** | LicenseRef-Proprietary |
 | **Edition** | 2021 |
 
 ## Features
